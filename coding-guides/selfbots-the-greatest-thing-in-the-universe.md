@@ -12,5 +12,3 @@ description: 'Selfbots *used* to be cool. Now they''re banned. #blameDiscord'
 
 ![](https://cdn.discordapp.com/attachments/81384788765712384/374827488171261953/unknown.png)
 
-
-
